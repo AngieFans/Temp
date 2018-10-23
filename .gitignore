@@ -1,18 +1,9 @@
 # Built application files
-*.apk
-*.ap_
-
 # Files for the ART/Dalvik VM
-*.dex
-
 # Java class files
-*.class
-
 # Generated files
 bin/
 gen/
-out/
-
 # Gradle files
 .gradle/
 build/
@@ -41,6 +32,7 @@ captures/
 .idea/dictionaries
 .idea/libraries
 .idea/caches
+.idea/encodings.xml
 
 # Keystore files
 # Uncomment the following line if you do not want to check your keystore files in.
@@ -63,3 +55,4 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+app/libs/
