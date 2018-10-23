@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
             p2.name = "aaa";
             System.out.println(p1.hashCode());
             System.out.println(p2.hashCode());
-            System.out.println("2");
         });
     }
 
